@@ -1,3 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm HebrewX</h1>
+<h3 align="center">Mastering Data Alchemy and Crafting Custom ROM Wonders</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 # 💫 About Me:
 🎓 Engineering Graduate: I hold a degree in engineering, which has equipped me with a strong foundation in problem-solving and technical skills.<br>👨‍💻 Custom ROM Developer: I'm deeply involved in the world of custom ROMs. I love tinkering with devices, exploring new features, and optimizing performance.<br>📊 Data Engineer: My expertise extends to data engineering. I enjoy working with data pipelines, databases, and ensuring data is transformed into meaningful insights.<br>💻 Laptop and Mobile Technician: As a tech enthusiast, I'm no stranger to troubleshooting and fixing hardware and software issues on laptops and mobile devices.
 
