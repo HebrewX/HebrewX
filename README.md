@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HebrewX</h1>
 <h3 align="center">Mastering Data Alchemy and Crafting Custom ROM Wonders</h3>
-<img align="center" alt="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
+<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/5927911.gif">
 - 🔭 I’m currently working on **HebrewXmaintainS**
 
 - 🌱 I’m currently learning **SSMS,PowerBi,Azure,Python**
