@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
+![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
 <h1 align="center">Hi 👋, I'm HebrewX</h1>
 <h3 align="center">Mastering Data Alchemy and Crafting Custom ROM Wonders</h3>
 
