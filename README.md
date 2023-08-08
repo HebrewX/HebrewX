@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I can dismantle and reassemble a smartphone blindfolded!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
