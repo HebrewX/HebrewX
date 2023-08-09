@@ -1,5 +1,5 @@
 ![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
-<h1 align="center">Hi 👋, I'm HebrewX</h1>
+<h1 align="center">Hi 🙌,I'm HebrewX with my new Account</h1>
 <h3 align="center">Mastering Data Alchemy and Crafting Custom ROM Wonders</h3>
 
 <h3 align="left">Connect with me:</h3>
