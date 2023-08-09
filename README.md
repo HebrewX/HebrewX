@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-🎓 Engineering Graduate: I hold a degree in engineering, which has equipped me with a strong foundation in problem-solving and technical skills.<br>👨‍💻 Custom ROM Developer: I'm deeply involved in the world of custom ROMs. I love tinkering with devices, exploring new features, and optimizing performance.<br>📊 Data Engineer: My expertise extends to data engineering. I enjoy working with data pipelines, databases, and ensuring data is transformed into meaningful insights.<br>💻 Laptop and Mobile Technician: As a tech enthusiast, I'm no stranger to troubleshooting and fixing hardware and software issues on laptops and mobile devices.
+🎓 ᴇɴɢɪɴᴇᴇʀɪɴɢ ɢʀᴀᴅᴜᴀᴛᴇ: ɪ ʜᴏʟᴅ ᴀ ᴅᴇɢʀᴇᴇ ɪɴ ᴇɴɢɪɴᴇᴇʀɪɴɢ, ᴡʜɪᴄʜ ʜᴀꜱ ᴇQᴜɪᴘᴘᴇᴅ ᴍᴇ ᴡɪᴛʜ ᴀ ꜱᴛʀᴏɴɢ ꜰᴏᴜɴᴅᴀᴛɪᴏɴ ɪɴ ᴘʀᴏʙʟᴇᴍ-ꜱᴏʟᴠɪɴɢ ᴀɴᴅ ᴛᴇᴄʜɴɪᴄᴀʟ ꜱᴋɪʟʟꜱ.<br>👨‍💻 Custom ROM Developer: I'm deeply involved in the world of custom ROMs. I love tinkering with devices, exploring new features, and optimizing performance.<br>📊 ᴅᴀᴛᴀ ᴇɴɢɪɴᴇᴇʀ: ᴍʏ ᴇxᴘᴇʀᴛɪꜱᴇ ᴇxᴛᴇɴᴅꜱ ᴛᴏ ᴅᴀᴛᴀ ᴇɴɢɪɴᴇᴇʀɪɴɢ. ɪ ᴇɴᴊᴏʏ ᴡᴏʀᴋɪɴɢ ᴡɪᴛʜ ᴅᴀᴛᴀ ᴘɪᴘᴇʟɪɴᴇꜱ, ᴅᴀᴛᴀʙᴀꜱᴇꜱ, ᴀɴᴅ ᴇɴꜱᴜʀɪɴɢ ᴅᴀᴛᴀ ɪꜱ ᴛʀᴀɴꜱꜰᴏʀᴍᴇᴅ ɪɴᴛᴏ ᴍᴇᴀɴɪɴɢꜰᴜʟ ɪɴꜱɪɢʜᴛꜱ.<br>💻 Laptop and Mobile Technician: As a tech enthusiast, I'm no stranger to troubleshooting and fixing hardware and software issues on laptops and mobile devices.
 
 
 # 💻 Tech Stack:
