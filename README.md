@@ -20,6 +20,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HebrewX&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ It's HebrewX
-![](https://bestanimations.com/media/sad-nostalgia-quotes/684522293should-be-sleeping-awake-thougts-quote-gif.gif)
 
