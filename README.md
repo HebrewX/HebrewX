@@ -1,7 +1,7 @@
 ![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
 <h1 align="center"> 🇭​​🇪​​🇧​​🇷​​🇪​​🇼​​🇽​ </h1>
 <h3 align="center">Mastering Data Alchemy and Crafting Custom ROM Wonders </h3>
-<h3 align="left">Connect: https://t.me/HebrewX  </h3>
+<h3 align="center">Connect with me : https://t.me/HebrewX  </h3>
 <p align="left">
 </p>
 
